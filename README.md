@@ -1,2 +1,9 @@
-# better-in-arabic
-A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.
+# بالعربي احسن [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+لماذا بالعربي ؟
+لان ايصال المعلومة و استيعابها بيكون اسرع بكتير باللغة الام و الاسئلة بتكون اكثر دقة و بتوصل للمراد مباشرة , علشان كده كان لازم يبقي فيه مكان يحوي المحتوي العربي و يعمله فهرسه بحيث يبقي سهل لاي حد جديد او محترف انه يوصل لكل المحتوي المجود بسهوله
+
+أتمني تشاركوني نحقق الهدف ده 
+
+تقدر تتواصل معايا علي  [تويتر](https://twitter.com/abdo_hussein)
+😁
