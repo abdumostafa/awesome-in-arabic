@@ -14,11 +14,15 @@
 * [يوتيوب](#يوتيوب)
 
 ## مطورين
-* [محمد حماد](https://www.facebook.com/mohamed.hamedhammad) - من الناس اللي عندها خبره كبيره و عنده تحليل كويس للامور 
-* [جيكس API - Geeks API](https://www.facebook.com/GeeksAPI) محتوى تقني عربي يشرف عليه مجموعة من الأركتكتس والتك ليدز
+* [محمد حماد (FB)](https://www.facebook.com/mohamed.hamedhammad) من الناس اللي عندها خبره كبيره و عنده تحليل كويس للامور 
+* [جيكس API - Geeks API (FB)](https://www.facebook.com/GeeksAPI) محتوى تقني عربي يشرف عليه مجموعة من الأركتكتس والتك ليدز
 
 ## بودكاست
-* [null++: بالعربي](https://nullplus.plus/) - بودكاست جميل جدا بيتكلم في حاجات  تخص صناعة البرمجيات و حياة المطورين و ايه احسن الادوات و الممارسات اللي لو عملتها هتطور منك و تعلي من اداءك
-
+* [nullplusplus](https://nullplus.plus/) 
+بودكاست جميل جدا بيتكلم في حاجات  تخص صناعة البرمجيات و حياة المطورين و ايه احسن الادوات و الممارسات اللي لو عملتها هتطور منك و تعلي من اداءك
+* [Ask Developer](http://www.askdeveloper.com/) واحد من اقوي البودكاستس و اللي فيها محتوي عن كل شئ للمطورين بيقدمه بشكل اساسي محمد الشريف مع بعض الضيوف في اغلب الاحيان
 ## يوتيوب
-* [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة بتتكلم عن  
+* [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
+* [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - بتتكلم عن  
+* [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - في الاغلب و لكن فيها محتوي مختلف يهم اي مبرمج Front-End Development قناة أسامة الزيرو - بتتكلم عن  
+* [Codehood](https://www.youtube.com/channel/UCoNfslp4XbQULWcE7V4FkZw/) - INTERVIEW QUESTIONS قناة بتتكلم في محتوي متعدد مهتمه اكتر ب  
