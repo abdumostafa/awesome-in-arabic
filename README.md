@@ -25,5 +25,6 @@
 * [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
 * [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - بتتكلم عن  
 * [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - في الاغلب و لكن فيها محتوي مختلف يهم اي مبرمج Front-End Development قناة أسامة الزيرو - بتتكلم عن  
-* [Codehood](https://www.youtube.com/channel/UCoNfslp4XbQULWcE7V4FkZw/) - INTERVIEW QUESTIONS قناة بتتكلم في محتوي متعدد مهتمه اكتر ب  
+* [Codehood](https://www.youtube.com/channel/UCoNfslp4XbQULWcE7V4FkZw/) - INTERVIEW QUESTIONS قناة بتتكلم في محتوي متعدد مهتمه اكتر ب 
+* [Arabic Competitive Programming](https://www.youtube.com/user/nobody123497/) - قناة مصطفي سعد للبرمجه التنافسية و مسابقات البرمجيات
 * [Mohamed Abusrea](https://www.youtube.com/c/mohamedabusrea) -  قناة بتتكلم عن البرمجة بشكل عام وبتساعد المبتدئين فى التعرف عليها بشكل سهل وبسيط
