@@ -21,3 +21,4 @@
 * [null++: بالعربي](https://nullplus.plus/) - بودكاست جميل جدا بيتكلم في حاجات  تخص صناعة البرمجيات و حياة المطورين و ايه احسن الادوات و الممارسات اللي لو عملتها هتطور منك و تعلي من اداءك
 
 ## يوتيوب
+* [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة بتتكلم عن  
