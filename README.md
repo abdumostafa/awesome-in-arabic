@@ -28,3 +28,4 @@
 * [Codehood](https://www.youtube.com/channel/UCoNfslp4XbQULWcE7V4FkZw/) - INTERVIEW QUESTIONS قناة بتتكلم في محتوي متعدد مهتمه اكتر ب 
 * [Arabic Competitive Programming](https://www.youtube.com/user/nobody123497/) - قناة مصطفي سعد للبرمجه التنافسية و مسابقات البرمجيات
 * [Mohamed Abusrea](https://www.youtube.com/c/mohamedabusrea) -  قناة بتتكلم عن البرمجة بشكل عام وبتساعد المبتدئين فى التعرف عليها بشكل سهل وبسيط
+* [kudvenkat.arabic](https://www.youtube.com/channel/UCgRFf3_D5H1Qi8pvw2Czyzg) - قناة كودفينكات الشهيرة و لكن باللغة العربية 
