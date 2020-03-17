@@ -17,7 +17,9 @@
 * [التجمعات](#التجمعات)
   - [المملكة العربية السعودية](#المملكة-العربية-السعودية)
   - [مصر](#مصر)
- * [كيف اشارك](#كيف-اشارك)
+  - [الكويت](#الكويت)
+* [مواقع إلكترونية](#مواقع-إلكترونية)
+* [كيف اشارك](#كيف-اشارك)
 
 ## مطورين
 * [محمد حماد (FB)](https://www.facebook.com/mohamed.hamedhammad) من الناس اللي عندها خبره كبيره و عنده تحليل كويس للامور 
@@ -36,6 +38,7 @@
 * [Mohamed Abusrea](https://www.youtube.com/c/mohamedabusrea) -  قناة بتتكلم عن البرمجة بشكل عام وبتساعد المبتدئين فى التعرف عليها بشكل سهل وبسيط
 * [kudvenkat.arabic](https://www.youtube.com/channel/UCgRFf3_D5H1Qi8pvw2Czyzg) - قناة كودفينكات الشهيرة و لكن باللغة العربية 
 * [coding with nerds](https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw/) - قناة مهتمة بتطوير تطبيقات الاندرويد
+* [code it with tariq](https://www.youtube.com/channel/UCTli-xFwKT1tDkR8HZ3x7jA) – من مايكروسوفت، و ما يتعلق بهما بشكل عام Azure قناة تعليمية متخصصة في مجال البرمجة، و سحابية
 
 ## امن المعلومات
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, بينشر عليه كل ما يهم امن المعلومات و اخر الاخبار و الثغرات
@@ -56,6 +59,11 @@
 * [EGDroid](https://www.twitter.com/eg_droid) تجمع خاص بالمهتمين بتطوير برامج الاندرويد
 * [EgyptJS](https://www.twitter.com/egyptjs) تجمع خاص بالمهتمين بلغة جافا سكريبت
 * [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - ACM جروب فيس بوك خاص بمساعده الطلبه فى مسابقات 
+### الكويت
+* [Azure Kuwait](https://twitter.com/azure_q8) - Azure تجمع خاص بالمهتمين بسحابية مايكروسوفت
+
+## مواقع إلكترونية
+* [technawi.net](https://www.technawi.net/) موقع تكناوي.نت هو موقع تقني مهتم بإثراء المحتوى التقني العربي و مهتم أيضا بمواكبة كل ما هو جديد في مجالات التقنية من أمن معلومات و برمجة و تطبيقات ويب و غيرها من الأصناف التقنية
 
 ## كيف اشارك
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
