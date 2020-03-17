@@ -54,7 +54,7 @@
 ### مصر
 * [SwiftCairo](https://www.twitter.com/swiftcairo) Swift تجمع خاص بالمهتمين بتطوير برامج الايفون و بتعلم لغة 
 * [EGDroid](https://www.twitter.com/eg_droid) تجمع خاص بالمهتمين بتطوير برامج الاندرويد
-* [EgyptJS](https://www.twitter.com/eg_droid) تجمع خاص بالمهتمين بلغة جافا سكريبت
+* [EgyptJS](https://www.twitter.com/egyptjs) تجمع خاص بالمهتمين بلغة جافا سكريبت
 * [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - ACM جروب فيس بوك خاص بمساعده الطلبه فى مسابقات 
 
 ## كيف اشارك
