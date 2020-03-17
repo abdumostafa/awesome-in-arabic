@@ -17,6 +17,7 @@
 * [التجمعات](#التجمعات)
   - [المملكة العربية السعودية](#المملكة-العربية-السعودية)
   - [مصر](#مصر)
+  - [الكويت](#الكويت)
  * [كيف اشارك](#كيف-اشارك)
 
 ## مطورين
@@ -36,6 +37,7 @@
 * [Mohamed Abusrea](https://www.youtube.com/c/mohamedabusrea) -  قناة بتتكلم عن البرمجة بشكل عام وبتساعد المبتدئين فى التعرف عليها بشكل سهل وبسيط
 * [kudvenkat.arabic](https://www.youtube.com/channel/UCgRFf3_D5H1Qi8pvw2Czyzg) - قناة كودفينكات الشهيرة و لكن باللغة العربية 
 * [coding with nerds](https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw/) - قناة مهتمة بتطوير تطبيقات الاندرويد
+* [code it with tariq](https://www.youtube.com/channel/UCTli-xFwKT1tDkR8HZ3x7jA) – من مايكروسوفت، و ما يتعلق بهما بشكل عام Azure قناة تعليمية متخصصة في مجال البرمجة، و سحابية
 
 ## امن المعلومات
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, بينشر عليه كل ما يهم امن المعلومات و اخر الاخبار و الثغرات
@@ -56,6 +58,8 @@
 * [EGDroid](https://www.twitter.com/eg_droid) تجمع خاص بالمهتمين بتطوير برامج الاندرويد
 * [EgyptJS](https://www.twitter.com/egyptjs) تجمع خاص بالمهتمين بلغة جافا سكريبت
 * [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - ACM جروب فيس بوك خاص بمساعده الطلبه فى مسابقات 
+### الكويت
+* [Azure Kuwait](https://twitter.com/azure_q8) - Azure تجمع خاص بالمهتمين بساحبية مايكروسوفت
 
 ## كيف اشارك
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
