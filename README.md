@@ -59,7 +59,7 @@
 * [EgyptJS](https://www.twitter.com/egyptjs) تجمع خاص بالمهتمين بلغة جافا سكريبت
 * [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - ACM جروب فيس بوك خاص بمساعده الطلبه فى مسابقات 
 ### الكويت
-* [Azure Kuwait](https://twitter.com/azure_q8) - Azure تجمع خاص بالمهتمين بساحبية مايكروسوفت
+* [Azure Kuwait](https://twitter.com/azure_q8) - Azure تجمع خاص بالمهتمين بسحابية مايكروسوفت
 
 ## كيف اشارك
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
