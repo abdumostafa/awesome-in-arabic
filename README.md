@@ -41,6 +41,7 @@
 * [code it with tariq](https://www.youtube.com/channel/UCTli-xFwKT1tDkR8HZ3x7jA) – من مايكروسوفت، و ما يتعلق بهما بشكل عام Azure قناة تعليمية متخصصة في مجال البرمجة، و سحابية
 * [محمد الدسوقى](https://www.youtube.com/user/DesoukiEgypt/) - Databases & Computer Science topics  قناة محمد الدسوقي - بتتكلم عن  
 * [Ayman El-Ghazali](https://www.youtube.com/user/TheSQLPro/) - Databases & Sql server قناة ايمن الغزالي - بتتكلم عن  
+* [Free4arab | Information Technology](https://www.youtube.com/user/Nourelhoda2011) - Free4Arab قناة 
 
 ## امن المعلومات
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, بينشر عليه كل ما يهم امن المعلومات و اخر الاخبار و الثغرات
