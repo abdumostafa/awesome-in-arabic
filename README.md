@@ -39,6 +39,8 @@
 * [kudvenkat.arabic](https://www.youtube.com/channel/UCgRFf3_D5H1Qi8pvw2Czyzg) - قناة كودفينكات الشهيرة و لكن باللغة العربية 
 * [coding with nerds](https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw/) - قناة مهتمة بتطوير تطبيقات الاندرويد
 * [code it with tariq](https://www.youtube.com/channel/UCTli-xFwKT1tDkR8HZ3x7jA) – من مايكروسوفت، و ما يتعلق بهما بشكل عام Azure قناة تعليمية متخصصة في مجال البرمجة، و سحابية
+* [محمد الدسوقى](https://www.youtube.com/user/DesoukiEgypt/) - Databases & Computer Science topics  قناة محمد الدسوقي - بتتكلم عن  
+* [Ayman El-Ghazali](https://www.youtube.com/user/TheSQLPro/) - Databases & Sql server قناة ايمن الغزالي - بتتكلم عن  
 
 ## امن المعلومات
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, بينشر عليه كل ما يهم امن المعلومات و اخر الاخبار و الثغرات
