@@ -28,7 +28,9 @@
 ## بودكاست
 * [nullplusplus](https://nullplus.plus/) 
 بودكاست جميل جدا بيتكلم في حاجات  تخص صناعة البرمجيات و حياة المطورين و ايه احسن الادوات و الممارسات اللي لو عملتها هتطور منك و تعلي من اداءك
-* [Ask Developer](http://www.askdeveloper.com/) واحد من اقوي البودكاستس و اللي فيها محتوي عن كل شئ للمطورين بيقدمه بشكل اساسي محمد الشريف مع بعض الضيوف في اغلب الاحيان
+* [Ask Developer](http://www.askdeveloper.com/) واحد من اقوي البودكاستس و اللي فيها محتوي عن كل شئ للمطورين بيقدمه بشكل اساسي محمد 
+الشريف مع بعض الضيوف في اغلب الاحيان
+* [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) - تيك تراكس بودكاست
 ## يوتيوب
 * [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
 * [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - بتتكلم عن  
