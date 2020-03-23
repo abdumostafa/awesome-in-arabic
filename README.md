@@ -45,7 +45,10 @@
 * [Ayman El-Ghazali](https://www.youtube.com/user/TheSQLPro/) - Databases & Sql server قناة ايمن الغزالي - تتناول  
 * [Free4arab | Information Technology](https://www.youtube.com/user/Nourelhoda2011) - Free4Arab قناة 
 * [TheNewBaghdad](https://www.youtube.com/user/alxs1aa/) -  قناة تعليمية متخصصة في تعليم كل مايخص عالم التقنية  من لغات برمجة وامن معلومات بشكل مجاني وعالي الجودة
- * [Nour Homsi](https://www.youtube.com/user/drnour/) - Graphic and web design قناة مهتمة ب
+* [Nour Homsi](https://www.youtube.com/user/drnour/) - Graphic and web design قناة مهتمة ب
+* [Mohamed Elsherif](https://www.youtube.com/user/bashmohandes) - قناة محمد الشريف - تتناول موضوعات متنوعة 
+* [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy) - قناة محمد عيسي - تتناول موضوعات متنوعة 
+* [العنصر 14](https://www.youtube.com/channel/UCJdRnkpO-mvBq5VyE9n0scw) - Computer apps  قناة العنصر 14 - تتناول موضوعات متنوعة عن  
 
 ## امن المعلومات
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, ينشر عليه كل ما يهم أمن المعلومات و آخر الاخبار و الثغرات
