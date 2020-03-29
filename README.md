@@ -13,6 +13,7 @@
 * [بودكاست](#بودكاست)
 * [يوتيوب](#يوتيوب)
 * [امن المعلومات](#امن-المعلومات)
+* [تعلم الآلة](#تعلم-الآلة)
 * [مدونات](#مدونات)
 * [التجمعات](#التجمعات)
   - [المملكة العربية السعودية](#المملكة-العربية-السعودية)
@@ -52,8 +53,12 @@
 * [Codezilla](https://www.youtube.com/channel/UCveX_0uBOHVHbpV838OGXVA) - python قناة كودزيلا - تتناول موضوعات متنوعة اشهرهم
 * [Ameer Gaafar](https://www.youtube.com/channel/UCw8L2uw2DCVpbh0lD5SOrkg) - Test Driven Development قناة امير جعفر - تتناول موضوعات 
 
+## تعلم الآلة
+* [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
+
 ## امن المعلومات
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, ينشر عليه كل ما يهم أمن المعلومات و آخر الاخبار و الثغرات
+* [Ebrahim Hegazy](https://www.youtube.com/user/Zigoo0/videos) - قناة اليوتيوب لخبير أمن المعلومات إبراهيم حجازي بها العديد من الشروحات والنصائح.
 
 ## مدونات
 * [The Busy Developer](http://samehdeabes.blogspot.com/) -(Software engineering - architecture - design patterns) مدونة سامح دعبس 
