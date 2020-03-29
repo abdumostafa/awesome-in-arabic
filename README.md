@@ -50,6 +50,7 @@
 * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy) - قناة محمد عيسي - تتناول موضوعات متنوعة 
 * [العنصر 14](https://www.youtube.com/channel/UCJdRnkpO-mvBq5VyE9n0scw) - Computer apps  قناة العنصر 14 - تتناول موضوعات متنوعة عن  
 * [Codezilla](https://www.youtube.com/channel/UCveX_0uBOHVHbpV838OGXVA) - python قناة كودزيلا - تتناول موضوعات متنوعة اشهرهم
+* [Ameer Gaafar](https://www.youtube.com/channel/UCw8L2uw2DCVpbh0lD5SOrkg) - Test Driven Development قناة امير جعفر - تتناول موضوعات 
 
 ## امن المعلومات
 * [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, ينشر عليه كل ما يهم أمن المعلومات و آخر الاخبار و الثغرات
