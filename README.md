@@ -52,6 +52,7 @@
 * [العنصر 14](https://www.youtube.com/channel/UCJdRnkpO-mvBq5VyE9n0scw) - Computer apps  قناة العنصر 14 - تتناول موضوعات متنوعة عن  
 * [Codezilla](https://www.youtube.com/channel/UCveX_0uBOHVHbpV838OGXVA) - python قناة كودزيلا - تتناول موضوعات متنوعة اشهرهم
 * [Ameer Gaafar](https://www.youtube.com/channel/UCw8L2uw2DCVpbh0lD5SOrkg) - Test Driven Development قناة امير جعفر - تتناول موضوعات 
+* [Eslam Mahmoud](https://www.youtube.com/user/hunikal1) - Go programming language قناة اسلام محمود - تتناول موضوعات 
 
 ## تعلم الآلة
 * [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
