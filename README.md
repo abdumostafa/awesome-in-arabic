@@ -33,7 +33,6 @@
 الشريف مع بعض الضيوف في اغلب الاحيان
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) - تيك تراكس بودكاست
 ## يوتيوب
-* [Ibraheem Osama](https://www.youtube.com/channel/UC-0XB-AT2Q3rb1muG_wtIiw) - والبرمجة بشكل عام DevOps قناء ابراهيم أسامة تحتوي علي مواضيع تتعلق بال
 * [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
 * [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - تتناول  
 * [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - قناة أسامة الزيرو 
@@ -83,6 +82,10 @@
 
 ## مواقع إلكترونية
 * [technawi.net](https://www.technawi.net/) موقع تكناوي.نت هو موقع تقني مهتم بإثراء المحتوى التقني العربي و مهتم أيضا مواكبة كل ما هو جديد في مجالات التقنية من أمن معلومات و برمجة و تطبيقات ويب و غيرها من الأصناف التقنية
+* [3alam pro](https://3alam.pro/) منصة عالم البرمجة
+* [Harmoosh](https://harmash.com/) موقع محمد حرموش لتعليم البرمجة و علوم الحاسب
+* [Hsoub Academy](https://academy.hsoub.com/programming/) أكاديمية حسوب
+* [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9) موسوعة حسوب
 
 ## كيف اشارك
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
