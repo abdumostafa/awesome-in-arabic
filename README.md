@@ -33,6 +33,7 @@
 الشريف مع بعض الضيوف في اغلب الاحيان
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) - تيك تراكس بودكاست
 ## يوتيوب
+* [Ibraheem Osama](https://www.youtube.com/channel/UC-0XB-AT2Q3rb1muG_wtIiw) - والبرمجة بشكل عام DevOps قناء ابراهيم أسامة تحتوي علي مواضيع تتعلق بال
 * [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
 * [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - تتناول  
 * [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - قناة أسامة الزيرو 
