@@ -53,7 +53,8 @@
 * [Codezilla](https://www.youtube.com/channel/UCveX_0uBOHVHbpV838OGXVA) - python قناة كودزيلا - تتناول موضوعات متنوعة اشهرهم
 * [Ameer Gaafar](https://www.youtube.com/channel/UCw8L2uw2DCVpbh0lD5SOrkg) - Test Driven Development قناة امير جعفر - تتناول موضوعات 
 * [Eslam Mahmoud](https://www.youtube.com/user/hunikal1) - Go programming language قناة اسلام محمود - تتناول موضوعات 
-
+* [Ibraheem Osama](https://www.youtube.com/channel/UC-0XB-AT2Q3rb1muG_wtIiw) - .net development قناة ابراهيم أسامة 
+* [Khaled Essaadani](https://www.youtube.com/user/EssaadaniTV/) قناة خالد السعداني 
 ## تعلم الآلة
 * [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
 
