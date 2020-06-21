@@ -64,6 +64,7 @@
 
 ## مدونات
 * [The Busy Developer](http://samehdeabes.blogspot.com/) -(Software engineering - architecture - design patterns) مدونة سامح دعبس 
+* [GalalDev](http://galaldev.blogspot.com/) - مدونة محمد جلال
 
 ## التجمعات
 ### المملكة العربية السعودية
