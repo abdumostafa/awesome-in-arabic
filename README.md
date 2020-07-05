@@ -90,6 +90,7 @@
 * [Harmoosh](https://harmash.com/) موقع محمد حرموش لتعليم البرمجة و علوم الحاسب
 * [Hsoub Academy](https://academy.hsoub.com/programming/) أكاديمية حسوب
 * [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9) موسوعة حسوب
+* [Informatic](https://informatic-ar.com/) انفورماتيك - مقالات باللغة العربية في مجال البرمجة و علوم الحاسب
 
 ## كيف اشارك
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
