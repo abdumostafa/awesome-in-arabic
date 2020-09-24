@@ -21,3 +21,13 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
   - [Kuwait](#Kuwait)
 * [Websites](#Websites)
 * [How can I Contribute?](#Contribution)
+
+## Software Developers and Architects
+* [Mohamed Hammad (FB)](https://www.facebook.com/mohamed.hamedhammad) One of the developers who have a great experience with excellent ability on analyzation.
+* [Geeks API (FB)](https://www.facebook.com/GeeksAPI) Arabic technical content supervised by a group of software architects and technology pioneers.
+
+## Podcasts
+* [nullplusplus](https://nullplus.plus/) A fancy podcast discusses all topics related to the software industry, the lives of developers, and the best tools & practices which raise your level and increase your productivity. 
+* [Ask Developer](http://www.askdeveloper.com/) One of the strongest podcasts that contain everything that interests developers. It is mainly introduced by Mohamed El-Sherif with some guests most of the time.
+* [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) - Tech Tracks podcast.
+
