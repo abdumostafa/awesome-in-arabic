@@ -32,6 +32,12 @@
 * [Ask Developer](http://www.askdeveloper.com/) أحد أقوي البودكاستس و التي تحتوي كل شئ يهم المطورين يقدمه بشكل اساسي محمد 
 الشريف مع بعض الضيوف في اغلب الاحيان
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) - تيك تراكس بودكاست
+* [Tech and Coffee](https://poddtoppen.se/podcast/1493504725/tech-and-coffee) 
+عن التكنولوجيا وروادها والقهوة وشاربوها والعلاقة بينهم لا تنتهي
+كل اسبوع هايكون معانا حلقة او اتنين هنتكلم مع متخصصين في مجال التقنية او القهوة المختصة او كلاهما نتبادل خبرات ونستفيد من خبرات الغير
+وكمان لو معناش ضيف هندردش في واحد من الموضوعين وايه علاقة القهوة بالتقنية
+* [قهوة عصام](https://podu.me/shows/show/118/kho-aasam)
+حلقات اسبوعية مع ناس احتمال نتفق او نختلف معاهم، المهم ان نتعلم و نستفيد من بعض و حلقة صغيرة اسبوعيا عن موضوع عشوائي من ترشيحات تويتر.
 ## يوتيوب
 * [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
 * [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - تتناول  
