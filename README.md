@@ -34,6 +34,7 @@
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) - تيك تراكس بودكاست
 * [Tech and Coffee](https://poddtoppen.se/podcast/1493504725/tech-and-coffee) - عن التكنولوجيا وروادها والقهوة وشاربوها والعلاقة بينهم لا تنتهي
 * [قهوة عصام](https://podu.me/shows/show/118/kho-aasam)
+
 حلقات اسبوعية مع ناس احتمال نتفق او نختلف معاهم، المهم ان نتعلم و نستفيد من بعض و حلقة صغيرة اسبوعيا عن موضوع عشوائي من ترشيحات تويتر.
 ## يوتيوب
 * [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
