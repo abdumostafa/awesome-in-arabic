@@ -98,13 +98,13 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [technawi.net](https://www.technawi.net/) Technawy.net is a technical website interested in enriching Arab technical content and also interested in keeping up with all that is new in the fields of technology, including information security, programming, web applications and other types of technology.
 * [3alam pro](https://3alam.pro/) - Programming world platform.
 * [Harmoosh](https://harmash.com/) - Mohamed Harmoosh's website for teaching programming and computer science.
-* [Hsoub Academy](https://academy.hsoub.com/programming/)
+* [Hsoub Academy](https://academy.hsoub.com/programming/) 
 * [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
-* [Informatic](https://informatic-ar.com/) A lot of articles in computer science and programming in Arabic.
+* [Informatic](https://informatic-ar.com/) - A lot of articles in computer science and programming in Arabic.
 
 ## Contribution
 
-To add an article, youtube channel, technical blog, or any other Arabic source you find useful, there are three ways:
+*To add an article, youtube channel, technical blog, or any other Arabic source you find useful, there are three ways:*
 
 * Fork the repo, commit your changes, and make a pull request.
 * Open an issue to discuss your suggestions to add it soon.
