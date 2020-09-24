@@ -1,5 +1,7 @@
 # Awesome in Arabic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[النسخة العربية](README.md)
+
 Why in Arabic?
 Because the delivery and assimilation of information is much faster in the mother tongue, and the questions are more accurate and reach the intended target directly. For this, there had to be a source containing Arabic content and indexing it so that it would be easy for any newbie or guru developer to access all the existing content easily.
 
