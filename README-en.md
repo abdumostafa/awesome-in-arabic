@@ -57,3 +57,38 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [Ibraheem Osama](https://www.youtube.com/channel/UC-0XB-AT2Q3rb1muG_wtIiw) - offers content about .net development.
 * [Khaled Essaadani](https://www.youtube.com/user/EssaadaniTV/) presents a discussion about different topics and a lot of courses.
 * [Captain Dev](https://www.youtube.com/channel/UCnVZ_j_KmoKueh464UqYiag/) - discusses different topics about programming in general.
+
+## Information Security
+
+* [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - The personal account of information security expert, Mohamed AbdelBasset, on which everything that matters to information security is published, as well as the latest news and bugs.
+* [Ebrahim Hegazy](https://www.youtube.com/user/Zigoo0/videos) - The YouTube channel of information security expert, Ibrahim Hegazy, has many explanations and tips.
+
+## Machine Learning
+
+* [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - eng. Menna Moataz's youtube channel for explanations of machine learning.
+
+## Blogs
+
+* [The Busy Developer](http://samehdeabes.blogspot.com/) -(Software engineering - architecture - design patterns) Sameh Deabs' Blog 
+* [GalalDev](http://galaldev.blogspot.com/) - Mohamed Galal's Blog
+
+## Meetups
+
+### Saudi Arabia
+
+* [Saudi. NET](https://twitter.com/saudidotnet) - .net developers community in Saudi Arabia.
+* [Laravel Saudi](https://twitter.com/laravel_saudi) - Laravel community in Saudi Arabia organizes meetings and workshops. You can meet members face to face and take advice through personal and practical experiences.
+* [Tech Talks Saudi](https://twitter.com/TechTalks_Saudi) - A technical meetup to discuss specialized topics in technology, computer science, and software engineering.
+* [Parmg](https://twitter.com/parmg_sa) - Developers Association is concerned with the software sector as a real building block to support the national economic base and contribute to building a creative generation.
+* [Java Star](https://twitter.com/JavaStarG) - One goal towards a promising Java community.
+
+### Egypt
+
+* [SwiftCairo](https://www.twitter.com/swiftcairo) - A meetup for those who interested in ios development and swift programming.
+* [EGDroid](https://www.twitter.com/eg_droid) -A special meetup for those who interested in Android application development.
+* [EgyptJS](https://www.twitter.com/egyptjs) - Meetup for JavaScript developers.
+* [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - Facebook group for competitive programming competitions and training.
+
+### Kuwait
+
+* [Azure Kuwait](https://twitter.com/azure_q8) - A meetup of those interested in Microsoft Azure cloud.
