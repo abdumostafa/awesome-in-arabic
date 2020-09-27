@@ -32,6 +32,12 @@
 * [Ask Developer](http://www.askdeveloper.com/) أحد أقوي البودكاستس و التي تحتوي كل شئ يهم المطورين يقدمه بشكل اساسي محمد 
 الشريف مع بعض الضيوف في اغلب الاحيان
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) - تيك تراكس بودكاست
+* [Live Tech Talk](https://www.facebook.com/livetechtalk) - محادثات أسبوعية حول التكنولوجيا وأشياء أخرى
+* [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - عن التكنولوجيا وروادها.
+* [Essam Cafe](https://essamcafe.com/) - حلقات أسبوعية مع أشخاص ربما نتفق أو لا نختلف معهم ، من المهم التعلم والاستفادة من بعضها وحلقة أسبوعية صغيرة حول موضوع عشوائي من ترشيحات تويتر.
+* [Khedr W Business](https://castbox.fm/channel/id2453686?country=us) - تنقسم الموضوعات إلى محورين: 1- الإدارة وريادة الأعمال وما يتعلق بهما من حيث استثمار وتشغيل وتسويق وشراكة وما إلى ذلك. 2- الحياة والعلاقات والنجاح والطرق المرسومة وكيف نعيشها في بطريقة تضمن التصالح مع النفس.
+* [State of E-commerce](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA) - بودكاست عربي للتجارة الإلكترونية والأعمال والتسويق لمساعدة أصحاب الأعمال على قياس وفهم وتطوير مبيعاتهم عبر الإنترنت.
+
 ## يوتيوب
 * [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن  
 * [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - تتناول  
@@ -81,6 +87,8 @@
 * [EGDroid](https://www.twitter.com/eg_droid) تجمع خاص بالمهتمين بتطوير برامج الاندرويد
 * [EgyptJS](https://www.twitter.com/egyptjs) تجمع خاص بالمهتمين بلغة جافا سكريبت
 * [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - ACM مجموعة فيس بوك خاص بمساعده الطلبه فى مسابقات 
+* [AWS Egypt](https://www.facebook.com/groups/aws.egypt.club) - Amazon Web Services مهمة المجموعة هي جمع كل المتحمسين لتكنولوجيا المعلومات بالإضافة إلى المهتمين بخدمات
+DevOps والحوسبة السحابية و
 ### الكويت
 * [Azure Kuwait](https://twitter.com/azure_q8) - Azure تجمع خاص بالمهتمين بسحابية مايكروسوفت
 
