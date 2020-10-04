@@ -56,6 +56,7 @@
 * [Ibraheem Osama](https://www.youtube.com/channel/UC-0XB-AT2Q3rb1muG_wtIiw) - .net development قناة ابراهيم أسامة 
 * [Khaled Essaadani](https://www.youtube.com/user/EssaadaniTV/) قناة خالد السعداني 
 * [Captain Dev](https://www.youtube.com/channel/UCnVZ_j_KmoKueh464UqYiag/) قناة كابتن ديف - بتتكلم في مواضيع مختلفة في البرمجة
+* [Abdullah Almehmadi](https://www.youtube.com/user/abdullaheidtv) قناة عبدالله عيد
 
 ## تعلم الآلة
 * [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
