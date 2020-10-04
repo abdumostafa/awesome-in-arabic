@@ -1,5 +1,7 @@
 # بالعربي أفضل [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[English Version](README-en.md)
+
 لماذا بالعربي ؟
 لان ايصال المعلومة و استيعابها بكون اسرع بكتير باللغة الام و الاسئلة تكون اكثر دقة و تصل للمراد مباشرة , لهذا كان لابد أن يكون .هناك مصدر يحوي المحتوي العربي و يفهرسه بحيث يكون سهل لاي مطور جديد او محترف انه يصل لكل المحتوي الموجود بسهوله
 
