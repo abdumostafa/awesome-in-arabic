@@ -146,6 +146,8 @@
 - [Shady Selim ](https://www.youtube.com/channel/UCxli98N2RGm8mvdFyuoBfZQ)
 - [Aia Ashraf ](https://www.youtube.com/channel/UCvmZHjgeY9u2z0Xj14C0kvA)
 - [Bassam Alugili](https://www.youtube.com/user/hungryMind88/videos)
+- [برمجة دوت كوم - Brmja com](https://www.youtube.com/channel/UCsJXcO7KwOTjji445It3ZHQ)
+- [ Ahmed Ash](https://www.youtube.com/user/smiledevelop)
 
 ## تعلم الآلة
 
