@@ -43,6 +43,16 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
 * [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
 
+### Osama Elzero (Elzero Web School)
+* [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
+* [Elzero Web School | Facebook](https://www.facebook.com/groups/ElzeroWebSchool)
+* [(152) Elzero Web School - YouTube](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
+* [أكاديمية الزيرو](https://elzero.org/)
+* [ElzeroWebSchool (Elzero Web School)](https://github.com/ElzeroWebSchool)
+* [Osama Elzero (@Osama_Elzero) / Twitter](https://twitter.com/Osama_Elzero)
+* [Osama on CodePen](https://codepen.io/OsamaElzero/)
+* [Osama Elzero (@osama_elzero) • Instagram photos and videos](https://www.instagram.com/Osama_Elzero/)
+
 ## Podcasts
 
 - [nullplusplus](https://nullplus.plus/) - A fancy podcast discusses all topics related to the software industry, the lives of developers, and the best tools & practices which raise your level and increase your productivity.
