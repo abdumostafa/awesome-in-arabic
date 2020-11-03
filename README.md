@@ -30,6 +30,12 @@
 - [محمد حماد (FB)](https://www.facebook.com/mohamed.hamedhammad) من المطورين ذوي الخبرة الكبيرة ولديه قدرة متميزة على التحليل
 - [جيكس API - Geeks API (FB)](https://www.facebook.com/GeeksAPI) محتوى تقني عربي يشرف عليه مجموعة من المعماريين ورواد التقنية
 
+### Ahmed Ashraf
+
+- [ Ahmed Ash - YouTube](https://www.youtube.com/user/smiledevelop)
+- [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
+- [Ahmed Ashraf](https://ahmedash.com/)
+
 ## بودكاست
 
 - [nullplusplus](https://nullplus.plus/)
