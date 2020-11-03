@@ -145,7 +145,7 @@
 - [GDG DevFest Egypt 2019](https://devfestegypt.org/)
 - [Shady Selim ](https://www.youtube.com/channel/UCxli98N2RGm8mvdFyuoBfZQ)
 - [Aia Ashraf ](https://www.youtube.com/channel/UCvmZHjgeY9u2z0Xj14C0kvA)
-- [https://www.youtube.com/user/hungryMind88/videos](https://www.youtube.com/user/hungryMind88/videos)
+- [Bassam Alugili](https://www.youtube.com/user/hungryMind88/videos)
 
 ## تعلم الآلة
 
