@@ -35,6 +35,14 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 - [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
 - [Ahmed Ashraf](https://ahmedash.com/)
 
+### Medhat Dawoud (SemiColon Academy)
+* [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
+* [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
+* [Medhat Dawoud](https://medhatdawoud.net/#_=_)
+* [medhatdawoud (Medhat Dawoud) · GitHub](https://github.com/medhatdawoud)
+* [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
+* [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
+
 ## Podcasts
 
 - [nullplusplus](https://nullplus.plus/) - A fancy podcast discusses all topics related to the software industry, the lives of developers, and the best tools & practices which raise your level and increase your productivity.
