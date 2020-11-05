@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # بالعربي أفضل [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [English Version](README-en.md)
@@ -223,7 +225,7 @@
 
 ## كيف اشارك
 
-لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
+لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيد
 
 - Fork بعد عمل Pull request انشأ
 - و سوف نقوم باضافتها بعد المراجعة Issue اضافة
