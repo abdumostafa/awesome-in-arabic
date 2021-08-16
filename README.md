@@ -1,14 +1,15 @@
+<div dir=rtl>
+
 # بالعربي أفضل [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [English Version](README-en.md)
 
 لماذا بالعربي ؟
-لان ايصال المعلومة و استيعابها بكون اسرع بكتير باللغة الام و الاسئلة تكون اكثر دقة و تصل للمراد مباشرة , لهذا كان لابد أن يكون .هناك مصدر يحوي المحتوي العربي و يفهرسه بحيث يكون سهل لاي مطور جديد او محترف انه يصل لكل المحتوي الموجود بسهوله
+لان إيصال المعلومة و استيعابها بكون أسرع بكثير باللغة الأم و اﻷسئلة تكون أكثر دقة و تصل للمراد مباشرة، لهذا كان لابد أن يكون هناك مصدر يحوي المحتوي العربي و يفهرسه بحيث يكون سهل لأي مطور جديد أو محترف انه يصل لكل المحتوي الموجود بسهوله.
 
-أتمنى المشاركة لتحقيق هذا الهدف
+**أتمنى المشاركة لتحقيق هذا الهدف.**
 
-يمكنكم التواصل معي على [تويتر](https://twitter.com/abdo_hussein)
-😁
+يمكنكم التواصل معي على [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/abdo_hussein)
 
 ## المحتوى
 
@@ -30,13 +31,13 @@
 - [محمد حماد (FB)](https://www.facebook.com/mohamed.hamedhammad) من المطورين ذوي الخبرة الكبيرة ولديه قدرة متميزة على التحليل
 - [جيكس API - Geeks API (FB)](https://www.facebook.com/GeeksAPI) محتوى تقني عربي يشرف عليه مجموعة من المعماريين ورواد التقنية
 
-### Ahmed Ashraf
+### أحمد أشرف
 
 - [ Ahmed Ash - YouTube](https://www.youtube.com/user/smiledevelop)
 - [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
 - [Ahmed Ashraf](https://ahmedash.com/)
 
-### Medhat Dawoud (SemiColon Academy)
+### مدحت داوود
 * [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
 * [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
 * [Medhat Dawoud](https://medhatdawoud.net/#_=_)
@@ -44,7 +45,7 @@
 * [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
 * [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
 
-### Osama Elzero (Elzero Web School)
+### أسامة الزيرو
 * [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
 * [Elzero Web School | Facebook](https://www.facebook.com/groups/ElzeroWebSchool)
 * [(152) Elzero Web School - YouTube](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
@@ -228,3 +229,5 @@
 - Fork بعد عمل Pull request انشأ
 - و سوف نقوم باضافتها بعد المراجعة Issue اضافة
 - التواصل معي مباشرة عبر حسابي علي تويتر
+
+</div>
