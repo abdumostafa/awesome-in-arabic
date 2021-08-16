@@ -7,7 +7,7 @@ Because the delivery and assimilation of information is much faster in the mothe
 
 I hope we all participate to achieve this goal.
 
-You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/abdo_hussein)
+You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/abdlmneim)
 
 ## Table of Contents
 
@@ -28,6 +28,14 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 
 - [Mohamed Hammad (FB)](https://www.facebook.com/mohamed.hamedhammad) - One of the developers who have a great experience with excellent ability on analyzation.
 - [Geeks API (FB)](https://www.facebook.com/GeeksAPI) - Arabic technical content supervised by a group of software architects and technology pioneers.
+
+### Ahmed Aljaberi
+
+- [Ahmed Aljaberi / Twitter](https://twitter.com/ahmed_aljabri)
+
+ ### Abdelmneim Hussein
+
+- [👨🏽‍💻 عبدالمنعم ⚡ / Twitter](https://twitter.com/abdlmneim)
 
 ### Ahmed Ashraf
 
