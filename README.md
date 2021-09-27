@@ -230,6 +230,14 @@
 - [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9) موسوعة حسوب
 - [Informatic](https://informatic-ar.com/) انفورماتيك - مقالات باللغة العربية في مجال البرمجة و علوم الحاسب
 
+  
+ ## تطوير الالعاب
+  
+ - [6wrni - طورني](https://www.youtube.com/c/6wrni) - قناة يوتيوب لتعليم برمجة الالعاب
+ - [Omar Balfaqih](https://www.youtube.com/c/OBalfaqih) - قناة يوتيوب لتعليم برمجة الالعاب
+ - [AN Games Studio Club](https://www.facebook.com/groups/ANGamesStudioClub) - تجمع مبرمجي الالعاب للمناقشة و المساعدة في حل المشاكل 
+  
+  
 ## كيف اشارك
 
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
