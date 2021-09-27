@@ -233,8 +233,9 @@
   
  ## تطوير الالعاب
   
- - [6wrni - طورني](https://www.youtube.com/c/6wrni) - قناة يوتيوب لتعليم برمجة الالعاب
- - [Omar Balfaqih](https://www.youtube.com/c/OBalfaqih) - قناة يوتيوب لتعليم برمجة الالعاب
+ - [6wrni - طورني](https://www.youtube.com/c/6wrni) - قناة طورني لتعليم برمجة الالعاب
+ - [Omar Balfaqih](https://www.youtube.com/c/OBalfaqih) - قناة عمر بالفقيه لتعليم برمجة الالعاب
+ - [Ahmed Sabry - أحمد صبري](https://www.youtube.com/channel/UCHI6zFMbLNQlQ2q1q9NodGw) -قناةاحمد صبري لتعليم برمجة الالعاب 
  - [AN Games Studio Club](https://www.facebook.com/groups/ANGamesStudioClub) - تجمع مبرمجي الالعاب للمناقشة و المساعدة في حل المشاكل 
   
   
