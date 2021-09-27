@@ -172,6 +172,9 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [برمجة دوت كوم - Brmja com](https://www.youtube.com/channel/UCsJXcO7KwOTjji445It3ZHQ)
 * [ Ahmed Ash](https://www.youtube.com/user/smiledevelop)
 * [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
+* [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
+* [حسين ناصر](https://www.youtube.com/user/thecountedmond)
+
 
 ## Information Security
 
