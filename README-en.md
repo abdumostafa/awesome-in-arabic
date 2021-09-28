@@ -172,6 +172,10 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [برمجة دوت كوم - Brmja com](https://www.youtube.com/channel/UCsJXcO7KwOTjji445It3ZHQ)
 * [ Ahmed Ash](https://www.youtube.com/user/smiledevelop)
 * [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
+* [AWS Riyadh User Group](https://www.youtube.com/c/AWSRiyadhUserGroup)
+
+## Facebook Groups/Pages
+- [AWS Belaraby](https://www.facebook.com/AWSbelaraby) - Unofficial AWS page that provides professional content about AWS and cloud services in general in Arabic while keeping the English terminologies.
 
 ## Information Security
 
