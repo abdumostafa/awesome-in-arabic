@@ -35,10 +35,10 @@
 
 - [Ahmed Aljaberi / Twitter](https://twitter.com/ahmed_aljabri)
 
- ### عبدالمنعم حسين
+### عبدالمنعم حسين
 
 - [👨🏽‍💻 عبدالمنعم ⚡ / Twitter](https://twitter.com/abdlmneim)
-  
+
 ### أحمد أشرف
 
 - [ Ahmed Ash - YouTube](https://www.youtube.com/user/smiledevelop)
@@ -46,22 +46,24 @@
 - [Ahmed Ashraf](https://ahmedash.com/)
 
 ### مدحت داوود
-* [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
-* [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
-* [Medhat Dawoud](https://medhatdawoud.net/#_=_)
-* [medhatdawoud (Medhat Dawoud) · GitHub](https://github.com/medhatdawoud)
-* [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
-* [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
+
+- [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
+- [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
+- [Medhat Dawoud](https://medhatdawoud.net/#_=_)
+- [medhatdawoud (Medhat Dawoud) · GitHub](https://github.com/medhatdawoud)
+- [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
+- [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
 
 ### أسامة الزيرو
-* [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
-* [Elzero Web School | Facebook](https://www.facebook.com/groups/ElzeroWebSchool)
-* [(152) Elzero Web School - YouTube](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
-* [أكاديمية الزيرو](https://elzero.org/)
-* [ElzeroWebSchool (Elzero Web School)](https://github.com/ElzeroWebSchool)
-* [Osama Elzero (@Osama_Elzero) / Twitter](https://twitter.com/Osama_Elzero)
-* [Osama on CodePen](https://codepen.io/OsamaElzero/)
-* [Osama Elzero (@osama_elzero) • Instagram photos and videos](https://www.instagram.com/Osama_Elzero/)
+
+- [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
+- [Elzero Web School | Facebook](https://www.facebook.com/groups/ElzeroWebSchool)
+- [(152) Elzero Web School - YouTube](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ)
+- [أكاديمية الزيرو](https://elzero.org/)
+- [ElzeroWebSchool (Elzero Web School)](https://github.com/ElzeroWebSchool)
+- [Osama Elzero (@Osama_Elzero) / Twitter](https://twitter.com/Osama_Elzero)
+- [Osama on CodePen](https://codepen.io/OsamaElzero/)
+- [Osama Elzero (@osama_elzero) • Instagram photos and videos](https://www.instagram.com/Osama_Elzero/)
 
 ## بودكاست
 
@@ -182,6 +184,7 @@
 - [برمجة دوت كوم - Brmja com](https://www.youtube.com/channel/UCsJXcO7KwOTjji445It3ZHQ)
 - [ Ahmed Ash](https://www.youtube.com/user/smiledevelop)
 - [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
+- [AWS بالعربي](https://www.youtube.com/c/awsriyadhusergroup) قناة متخصصة في خدمات Amazon web sevices
 
 ## تعلم الآلة
 
@@ -216,6 +219,8 @@
 - [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - ACM مجموعة فيس بوك خاص بمساعده الطلبه فى مسابقات
 - [AWS Egypt](https://www.facebook.com/groups/aws.egypt.club) - Amazon Web Services مهمة المجموعة هي جمع كل المتحمسين لتكنولوجيا المعلومات بالإضافة إلى المهتمين بخدمات
   DevOps والحوسبة السحابية و
+- [AWS بالعربي](https://www.facebook.com/groups/300699310518354) - مجموعة متخصصة في الخدمات السحابية الهدف منا مساعدة المهتمين في مجال AWS cloud services في الحصول على الشهادات الخاصة ب AWS كما تقوم المجموعة باستضافة العديد من الشخصيات ذات الخبرة في هذا المجال في ندوات علمية
+- [AWS بالعربي](https://t.me/awsbelaraby) قناة التلكرام متاحة للجميع ويتم فيها طرح الاسئلة العلمية والمشاكل اليومية التي تقد تواجه المختصين في مجال AWS
 
 ### الكويت
 
