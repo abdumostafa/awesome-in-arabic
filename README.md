@@ -45,6 +45,12 @@
 - [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
 - [Ahmed Ashraf](https://ahmedash.com/)
 
+  
+### احمد فتحي: Senior Software Architect
+ - [Ahmad Fathy ](https://www.linkedin.com/in/ahmedfathykhalid/)
+ - كما يمكنك متابعة قناة المهندس احمد علي التلجرام حيث يجيب عن الاسئلةالتي تواجة المبرمجين المبدئين : [كالبنيان المرصوص](shorturl.at/pCGP0)
+  
+ 
 ### مدحت داوود
 * [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
 * [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
@@ -186,6 +192,7 @@
 ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
+ - [Hesham Asem](https://www.youtube.com/c/HeshamAsem) - قناة المهندس هشام عاصم علي اليوتيوب لشرح منهج تعلم الاله والتعلم العميق و معالجة اللغه الطبيعية .
 
 ## امن المعلومات
 
