@@ -186,6 +186,7 @@
 ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
+- [A.I. Paper بالعربية](https://www.facebook.com/groups/Arabic.A.I.Paper) - مجتمع مهتم بتعريب ابحاث المؤتمرات والمجلات العلمية وتطبيقاتهم فى أرض الواقع
 
 ## امن المعلومات
 
