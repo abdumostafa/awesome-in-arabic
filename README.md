@@ -192,8 +192,9 @@
 ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
- - [Hesham Asem](https://www.youtube.com/c/HeshamAsem) - قناة المهندس هشام عاصم علي اليوتيوب لشرح منهج تعلم الاله والتعلم العميق و معالجة اللغه الطبيعية .
-
+- [Hesham Asem](https://www.youtube.com/c/HeshamAsem) - قناة المهندس هشام عاصم علي اليوتيوب لشرح منهج تعلم الاله والتعلم العميق و معالجة اللغه الطبيعية .
+- [Hussam Hourani](https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA) -  قناة الدكتور حسام لشرح الكثير من المكتبات المستخدمة في الذكاء الاصطناعي و بايثون. 
+- [Farisology](https://www.youtube.com/channel/UCe2_Z7UrjYngN110gDyttiQ) - سلسله من الفيديوهات حول مقدمة في تعلم الاله 
 ## امن المعلومات
 
 - [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, ينشر عليه كل ما يهم أمن المعلومات و آخر الاخبار و الثغرات
