@@ -182,7 +182,12 @@
 - [برمجة دوت كوم - Brmja com](https://www.youtube.com/channel/UCsJXcO7KwOTjji445It3ZHQ)
 - [ Ahmed Ash](https://www.youtube.com/user/smiledevelop)
 - [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
+- [AWS Riyadh User Group](https://www.youtube.com/c/AWSRiyadhUserGroup)
 
+
+## صفحات/جروبات فيسبوك
+- [AWS بالعربي](https://www.facebook.com/AWSbelaraby) - صفحة غير رسمية بنقدم محتوى إحترافي عن خدمات AWS والكلاود بشكل عام باللغة العربية مع الحفاظ علي المصطلحات الإنجليزية.
+  
 ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
