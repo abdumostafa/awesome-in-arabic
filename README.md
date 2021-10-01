@@ -45,13 +45,16 @@
 - [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
 - [Ahmed Ashraf](https://ahmedash.com/)
 
-### مدحت داوود
+### مدحت داود | سيمي كولون اكاديمي
+* [Medhat Dawoud](https://medhatdawoud.net)
+* [Medhat Dawoud (@med7atdawoud) | Twitter](https://twitter.com/med7atdawoud)
+* [Medhat Dawoud | GitHub](https://github.com/medhatdawoud)
+* [Medhat Dawoud | Instagram](https://instagram.com/medhatdawoud)
 * [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
-* [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
-* [Medhat Dawoud](https://medhatdawoud.net/#_=_)
-* [medhatdawoud (Medhat Dawoud) · GitHub](https://github.com/medhatdawoud)
+* [Semicolon Academy](https://semicolon.academy)
 * [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
-* [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
+* [SemiColon Academy · YouTube](https://www.youtube.com/SemicolonAcademy)
+* [SemiColon Academy · Facebook](https://www.facebook.com/SemicolonAcademy)
 
 ### أسامة الزيرو
 * [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
@@ -79,7 +82,7 @@
 ## يوتيوب
 
 - [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن
-- [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - تتناول
+- [Semicolon Academy](https://www.youtube.com/semicolonacademy/) - سيمي كولون اكاديمي لرفع مستوى المبرمج العربي .. مهتمة بال Frontend Development
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - قناة أسامة الزيرو
 - [Codehood](https://www.youtube.com/channel/UCoNfslp4XbQULWcE7V4FkZw/) - INTERVIEW QUESTIONS قناة تتناول محتوي متعدد مهتمة اكتر ب
 - [Arabic Competitive Programming](https://www.youtube.com/user/nobody123497/) - قناة مصطفي سعد للبرمجه التنافسية و مسابقات البرمجيات
