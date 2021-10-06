@@ -184,6 +184,8 @@
 - [ Ahmed Ash](https://www.youtube.com/user/smiledevelop)
 - [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
 - [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+- [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA/playlists)
+  
 
 ## تعلم الآلة
 
