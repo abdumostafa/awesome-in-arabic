@@ -44,12 +44,15 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 - [Ahmed Ashraf](https://ahmedash.com/)
 
 ### Medhat Dawoud (SemiColon Academy)
+* [Medhat Dawoud](https://medhatdawoud.net)
+* [Medhat Dawoud (@med7atdawoud) | Twitter](https://twitter.com/med7atdawoud)
+* [Medhat Dawoud | GitHub](https://github.com/medhatdawoud)
+* [Medhat Dawoud | Instagram](https://instagram.com/medhatdawoud)
 * [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
-* [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
-* [Medhat Dawoud](https://medhatdawoud.net/#_=_)
-* [medhatdawoud (Medhat Dawoud) · GitHub](https://github.com/medhatdawoud)
-* [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
-* [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
+* [Semicolon Academy](https://semicolon.academy)
+* [SemiColon Academy | GitHub](https://github.com/semicolon-academy)
+* [SemiColon Academy | YouTube](https://www.youtube.com/SemicolonAcademy)
+* [SemiColon Academy | Facebook](https://www.facebook.com/SemicolonAcademy)
 
 ### Osama Elzero (Elzero Web School)
 * [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
@@ -70,7 +73,7 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 ## Youtube Channels
 
 - [Salesforce](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - presents content about Salesforce Development (by Ahmed kishk).
-- [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - presents content about Front-End Development.
+- [Semicolon Academy](https://www.youtube.com/semicolonacademy/) - presents content about leveling up arab developers in general and Frontend Development.
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - offers a lot of courses about different topics in Web Development (by Osama Mohamed).
 - [Codehood](https://www.youtube.com/channel/UCoNfslp4XbQULWcE7V4FkZw/) - offers content on several topics related to software development, especially the interview questions (by Islam).
 - [Arabic Competitive Programming](https://www.youtube.com/user/nobody123497/) - offers content on several topics (e.g. Discrete Math, Algorithms, etc) related to competitive programming and ACM ICPC contests (by Mostafa Saad).
