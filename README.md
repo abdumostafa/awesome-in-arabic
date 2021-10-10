@@ -188,8 +188,9 @@
 - [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
 - [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
 - [حسين ناصر](https://www.youtube.com/user/thecountedmond)
-  
-## تعلم الآلة
+- [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+
+  ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
 

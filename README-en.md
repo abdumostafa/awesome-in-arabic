@@ -177,6 +177,7 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
 * [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
 * [حسين ناصر](https://www.youtube.com/user/thecountedmond)
+* [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
 
 
 ## Information Security
