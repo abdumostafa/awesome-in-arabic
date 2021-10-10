@@ -189,6 +189,7 @@
 - [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
 - [حسين ناصر](https://www.youtube.com/user/thecountedmond)
 - [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+- [Zero One](https://www.youtube.com/c/ZeroOneCS) هي قناة تهتم بتعليم أساسيات البرمجة للطلاب من خلال شرح أهم الكتب في المجال.
 
   ## تعلم الآلة
 
