@@ -188,6 +188,7 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 ## Machine Learning
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - eng. Menna Moataz's youtube channel for explanations of machine learning.
+- [A.I. Paper بالعربية](https://www.facebook.com/groups/Arabic.A.I.Paper) - Research community dedicated for arabizating the latest research in ML and sharing its useful applications.
 
 ## Blogs
 
