@@ -217,6 +217,16 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 - [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
 - [Informatic](https://informatic-ar.com/) - A lot of articles in computer science and programming in Arabic.
 
+
+ ## Game Development
+  
+ - [6wrni - طورني](https://www.youtube.com/c/6wrni) - 6warni for Game Development tutorials
+ - [Omar Balfaqih](https://www.youtube.com/c/OBalfaqih) - Omar Balfaqih for Game Development tutorials
+ - [Ahmed Sabry - أحمد صبري](https://www.youtube.com/channel/UCHI6zFMbLNQlQ2q1q9NodGw) - Ahmed Sabry channel for game programming tutorials 
+ - [AN Games Studio Club](https://www.facebook.com/groups/ANGamesStudioClub) - Game programmers group for discussing and helping each other 
+  
+
+
 ## Contribution
 
 _To add an article, youtube channel, technical blog, or any other Arabic source you find useful, there are three ways:_
