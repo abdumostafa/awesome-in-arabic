@@ -178,6 +178,7 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
 * [حسين ناصر](https://www.youtube.com/user/thecountedmond)
 * [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+- [Zero One](https://www.youtube.com/c/ZeroOneCS) A channel interested in teaching the basics of programming for students by explaining the most important books in the field.
 
 
 ## Information Security
