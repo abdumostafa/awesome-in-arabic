@@ -46,6 +46,12 @@
 - [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
 - [Ahmed Ashraf](https://ahmedash.com/)
 
+### أحمد فتحي
+
+- [Ahmed Fathy's - كالبنيان المرصوص - YouTube](https://www.youtube.com/channel/UCG-wLtNfSTg742SiH7Lne1Q)
+- [Ahmed Fathy's Telegram Channel](https://t.me/kalbonyan_elmarsos)
+- [Ahmed Fathy's Linkedin](https://www.linkedin.com/in/ahmedfathykhalid/)
+  
 ### مدحت داود | سيمي كولون اكاديمي
 * [Medhat Dawoud](https://medhatdawoud.net)
 * [Medhat Dawoud (@med7atdawoud) | Twitter](https://twitter.com/med7atdawoud)
