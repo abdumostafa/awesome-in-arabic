@@ -194,10 +194,13 @@
 - [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
 - [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
 - [حسين ناصر](https://www.youtube.com/user/thecountedmond)
-  
-## تعلم الآلة
+- [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+- [Zero One](https://www.youtube.com/c/ZeroOneCS) هي قناة تهتم بتعليم أساسيات البرمجة للطلاب من خلال شرح أهم الكتب في المجال.
+
+  ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
+- [A.I. Paper بالعربية](https://www.facebook.com/groups/Arabic.A.I.Paper) - مجتمع مهتم بتعريب ابحاث المؤتمرات والمجلات العلمية وتطبيقاتهم فى أرض الواقع
 
 ## امن المعلومات
 
@@ -242,6 +245,15 @@
 - [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9) موسوعة حسوب
 - [Informatic](https://informatic-ar.com/) انفورماتيك - مقالات باللغة العربية في مجال البرمجة و علوم الحاسب
 
+  
+ ## تطوير الالعاب
+  
+ - [6wrni - طورني](https://www.youtube.com/c/6wrni) - قناة طورني لتعليم برمجة الالعاب
+ - [Omar Balfaqih](https://www.youtube.com/c/OBalfaqih) - قناة عمر بالفقيه لتعليم برمجة الالعاب
+ - [Ahmed Sabry - أحمد صبري](https://www.youtube.com/channel/UCHI6zFMbLNQlQ2q1q9NodGw) -قناةاحمد صبري لتعليم برمجة الالعاب 
+ - [AN Games Studio Club](https://www.facebook.com/groups/ANGamesStudioClub) - تجمع مبرمجي الالعاب للمناقشة و المساعدة في حل المشاكل 
+  
+  
 ## كيف اشارك
 
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن

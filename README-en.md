@@ -183,6 +183,8 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 * [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
 * [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
 * [حسين ناصر](https://www.youtube.com/user/thecountedmond)
+* [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+- [Zero One](https://www.youtube.com/c/ZeroOneCS) A channel interested in teaching the basics of programming for students by explaining the most important books in the field.
 
 
 ## Information Security
@@ -193,6 +195,7 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 ## Machine Learning
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - eng. Menna Moataz's youtube channel for explanations of machine learning.
+- [A.I. Paper بالعربية](https://www.facebook.com/groups/Arabic.A.I.Paper) - Research community dedicated for arabizating the latest research in ML and sharing its useful applications.
 
 ## Blogs
 
@@ -228,6 +231,16 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 - [Hsoub Academy](https://academy.hsoub.com/programming/)
 - [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
 - [Informatic](https://informatic-ar.com/) - A lot of articles in computer science and programming in Arabic.
+
+
+ ## Game Development
+  
+ - [6wrni - طورني](https://www.youtube.com/c/6wrni) - 6warni for Game Development tutorials
+ - [Omar Balfaqih](https://www.youtube.com/c/OBalfaqih) - Omar Balfaqih for Game Development tutorials
+ - [Ahmed Sabry - أحمد صبري](https://www.youtube.com/channel/UCHI6zFMbLNQlQ2q1q9NodGw) - Ahmed Sabry channel for game programming tutorials 
+ - [AN Games Studio Club](https://www.facebook.com/groups/ANGamesStudioClub) - Game programmers group for discussing and helping each other 
+  
+
 
 ## Contribution
 
