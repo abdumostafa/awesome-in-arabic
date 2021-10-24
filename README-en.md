@@ -43,6 +43,12 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 - [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
 - [Ahmed Ashraf](https://ahmedash.com/)
 
+### Ahmed Fathy
+
+- [Ahmed Fathy's - كالبنيان المرصوص - YouTube](https://www.youtube.com/channel/UCG-wLtNfSTg742SiH7Lne1Q)
+- [Ahmed Fathy's Telegram Channel](https://t.me/kalbonyan_elmarsos)
+- [Ahmed Fathy's Linkedin](https://www.linkedin.com/in/ahmedfathykhalid/)
+
 ### Medhat Dawoud (SemiColon Academy)
 * [Medhat Dawoud](https://medhatdawoud.net)
 * [Medhat Dawoud (@med7atdawoud) | Twitter](https://twitter.com/med7atdawoud)
