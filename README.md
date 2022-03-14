@@ -23,6 +23,7 @@
   - [المملكة العربية السعودية](#المملكة-العربية-السعودية)
   - [مصر](#مصر)
   - [الكويت](#الكويت)
+  - [تونس](#تونس)
 - [مواقع إلكترونية](#مواقع-إلكترونية)
 - [كيف اشارك](#كيف-اشارك)
 
@@ -45,13 +46,22 @@
 - [Ahmed Ash 👨‍💻 (@ahmedash95) / Twitter](https://twitter.com/ahmedash95)
 - [Ahmed Ashraf](https://ahmedash.com/)
 
-### مدحت داوود
+### أحمد فتحي
+
+- [Ahmed Fathy's - كالبنيان المرصوص - YouTube](https://www.youtube.com/channel/UCG-wLtNfSTg742SiH7Lne1Q)
+- [Ahmed Fathy's Telegram Channel](https://t.me/kalbonyan_elmarsos)
+- [Ahmed Fathy's Linkedin](https://www.linkedin.com/in/ahmedfathykhalid/)
+  
+### مدحت داود | سيمي كولون اكاديمي
+* [Medhat Dawoud](https://medhatdawoud.net)
+* [Medhat Dawoud (@med7atdawoud) | Twitter](https://twitter.com/med7atdawoud)
+* [Medhat Dawoud | GitHub](https://github.com/medhatdawoud)
+* [Medhat Dawoud | Instagram](https://instagram.com/medhatdawoud)
 * [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
-* [Medhat Dawoud (@Med7atDawoud) — 85 answers, 47 likes | ASKfm](https://ask.fm/Med7atDawoud)
-* [Medhat Dawoud](https://medhatdawoud.net/#_=_)
-* [medhatdawoud (Medhat Dawoud) · GitHub](https://github.com/medhatdawoud)
+* [Semicolon Academy](https://semicolon.academy)
 * [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
-* [SemiColon Academy - YouTube](https://www.youtube.com/SemicolonAcademy)
+* [SemiColon Academy · YouTube](https://www.youtube.com/SemicolonAcademy)
+* [SemiColon Academy · Facebook](https://www.facebook.com/SemicolonAcademy)
 
 ### أسامة الزيرو
 * [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
@@ -79,7 +89,7 @@
 ## يوتيوب
 
 - [Salesforce: بالعربي](https://www.youtube.com/channel/UCVtDDaKHq9ztGU1IBuhiQpw) - Salesforce Development قناة أحمد كشك - بتتكلم عن
-- [Medhat Dawoud](https://www.youtube.com/user/Med7atDawoud/) - Front-End Development قناة مدحت داوود - تتناول
+- [Semicolon Academy](https://www.youtube.com/semicolonacademy/) - سيمي كولون اكاديمي لرفع مستوى المبرمج العربي .. مهتمة بال Frontend Development
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - قناة أسامة الزيرو
 - [Codehood](https://www.youtube.com/channel/UCoNfslp4XbQULWcE7V4FkZw/) - INTERVIEW QUESTIONS قناة تتناول محتوي متعدد مهتمة اكتر ب
 - [Arabic Competitive Programming](https://www.youtube.com/user/nobody123497/) - قناة مصطفي سعد للبرمجه التنافسية و مسابقات البرمجيات
@@ -189,8 +199,12 @@
 - [AWS بالعربي](https://www.facebook.com/AWSbelaraby) - صفحة غير رسمية بنقدم محتوى إحترافي عن خدمات AWS والكلاود بشكل عام باللغة العربية مع الحفاظ علي المصطلحات الإنجليزية.
   
 ## تعلم الآلة
-
+- [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
+- [حسين ناصر](https://www.youtube.com/user/thecountedmond)
+- [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+- [Zero One](https://www.youtube.com/c/ZeroOneCS) هي قناة تهتم بتعليم أساسيات البرمجة للطلاب من خلال شرح أهم الكتب في المجال.
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
+- [A.I. Paper بالعربية](https://www.facebook.com/groups/Arabic.A.I.Paper) - مجتمع مهتم بتعريب ابحاث المؤتمرات والمجلات العلمية وتطبيقاتهم فى أرض الواقع
 
 ## امن المعلومات
 
@@ -212,7 +226,7 @@
 - [Tech Talks Saudi](https://twitter.com/TechTalks_Saudi) - لقاء تقني لمناقشة مواضيع تخصصية في التقنية وعلوم الحاسب وهندسة البرمجيات.
 - [برمج (Parmg)](https://twitter.com/parmg_sa) - جمعية المبرمجين تُعنى بقطاع البرمجيات لتكون لبنة حقيقية لدعم القاعدة الاقتصادية الوطنية والمساهمة ببناء جيل مبدع
 - [نجم جافا Java Star](https://twitter.com/JavaStarG) - مجموعة نجم جافا Java Star Group ... هدف واحد نحو مجتمع جافا واعد
-
+- [التوانسة الي يحبوا البرمجة](https://www.facebook.com/groups/TunisianProgrammingLovers) - تجمع يضم مبرمجين تونسيين لمشاركة خبراتهم ومساعدة بعضهم البعض  لتطوير و بناء جيل متعاون و مبدع يكون قادرا على المساهمة في تطوير وطنه مستقبلا 
 ### مصر
 
 - [SwiftCairo](https://www.twitter.com/swiftcairo) Swift تجمع خاص بالمهتمين بتطوير برامج الايفون و بتعلم لغة
@@ -235,6 +249,15 @@
 - [Hsoub Wiki](https://wiki.hsoub.com/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9) موسوعة حسوب
 - [Informatic](https://informatic-ar.com/) انفورماتيك - مقالات باللغة العربية في مجال البرمجة و علوم الحاسب
 
+  
+ ## تطوير الالعاب
+  
+ - [6wrni - طورني](https://www.youtube.com/c/6wrni) - قناة طورني لتعليم برمجة الالعاب
+ - [Omar Balfaqih](https://www.youtube.com/c/OBalfaqih) - قناة عمر بالفقيه لتعليم برمجة الالعاب
+ - [Ahmed Sabry - أحمد صبري](https://www.youtube.com/channel/UCHI6zFMbLNQlQ2q1q9NodGw) -قناةاحمد صبري لتعليم برمجة الالعاب 
+ - [AN Games Studio Club](https://www.facebook.com/groups/ANGamesStudioClub) - تجمع مبرمجي الالعاب للمناقشة و المساعدة في حل المشاكل 
+  
+  
 ## كيف اشارك
 
 لاضافة مقال او قناة او حساب تقني او اي مصدر باللغة العربية تجده مفيدهناك طريقيتن
