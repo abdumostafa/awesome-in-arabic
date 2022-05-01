@@ -196,6 +196,9 @@
 - [حسين ناصر](https://www.youtube.com/user/thecountedmond)
 - [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
 - [Zero One](https://www.youtube.com/c/ZeroOneCS) هي قناة تهتم بتعليم أساسيات البرمجة للطلاب من خلال شرح أهم الكتب في المجال.
+- [Mostafa Elhosseini](https://www.youtube.com/channel/UCZ0o2yS-zpxZ75dVEhq_AjQ) القناة تحتوي على محاضرات تعليمية في مجال الذكاء الصناعي وتعلم الآلة والتعلم العميق ... ايضا تقدم القناة محاضرات ومواد تعليمية في مجال البرمجة وهندسة التحكم والقياسات. 
+- [SolverToBe](https://www.youtube.com/c/SolverToBe) قناه موجهه للطلبة في الوطن العربي المهتمين بالبرمجة التنافسية  ، و الباحثين عن تطوير مهاراتهم العقلية في تحليل المسائل و كتابة الحلول البرمجية المناسبة ذات الكفاءة العالية 
+
 
   ## تعلم الآلة
 
