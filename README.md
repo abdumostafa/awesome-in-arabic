@@ -196,7 +196,7 @@
 - [حسين ناصر](https://www.youtube.com/user/thecountedmond)
 - [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
 - [Zero One](https://www.youtube.com/c/ZeroOneCS) هي قناة تهتم بتعليم أساسيات البرمجة للطلاب من خلال شرح أهم الكتب في المجال.
-
+- [AWS بالعربي](https://www.youtube.com/c/awsriyadhusergroup) قناة متخصصة في خدمات Amazon web sevices
   ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
@@ -231,6 +231,8 @@
 - [ICPC FCI CU Training](https://www.facebook.com/groups/ACMICPC.FCICU) - ACM مجموعة فيس بوك خاص بمساعده الطلبه فى مسابقات
 - [AWS Egypt](https://www.facebook.com/groups/aws.egypt.club) - Amazon Web Services مهمة المجموعة هي جمع كل المتحمسين لتكنولوجيا المعلومات بالإضافة إلى المهتمين بخدمات
   DevOps والحوسبة السحابية و
+- [AWS بالعربي](https://www.facebook.com/groups/300699310518354) - مجموعة متخصصة في الخدمات السحابية الهدف منا مساعدة المهتمين في مجال AWS cloud services في الحصول على الشهادات الخاصة ب AWS كما تقوم المجموعة باستضافة العديد من الشخصيات ذات الخبرة في هذا المجال في ندوات علمية
+- [AWS بالعربي](https://t.me/awsbelaraby) قناة التلكرام متاحة للجميع ويتم فيها طرح الاسئلة العلمية والمشاكل اليومية التي تقد تواجه المختصين في مجال AWS
 
 ### الكويت
 
