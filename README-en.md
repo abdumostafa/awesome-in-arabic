@@ -201,6 +201,7 @@ You can contact me on [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?s
 
 - [The Busy Developer](http://samehdeabes.blogspot.com/) -(Software engineering - architecture - design patterns) Sameh Deabs' Blog
 - [GalalDev](http://galaldev.blogspot.com/) - Mohamed Galal's Blog
+- [Tech Questions](https://github.com/Abdo-codes/Tech-questions) - A Github repository for repeated questions about computer science and software development.
 
 ## Meetups
 

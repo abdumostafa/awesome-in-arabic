@@ -219,6 +219,8 @@
 
 - [The Busy Developer](http://samehdeabes.blogspot.com/) -(Software engineering - architecture - design patterns) مدونة سامح دعبس
 - [GalalDev](http://galaldev.blogspot.com/) - مدونة محمد جلال
+- [Tech Questions](https://github.com/Abdo-codes/Tech-questions) - جيتهاب ريبو لأجابة الاسئلة المكررة عن دراسة علوم الحاسب وتطوير السوفتوير 
+
 
 ## التجمعات
 
