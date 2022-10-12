@@ -63,6 +63,11 @@
 * [SemiColon Academy · YouTube](https://www.youtube.com/SemicolonAcademy)
 * [SemiColon Academy · Facebook](https://www.facebook.com/SemicolonAcademy)
 
+  
+### احمد فتحي: Senior Software Architect
+ - [Ahmad Fathy ](https://www.linkedin.com/in/ahmedfathykhalid/)
+ - كما يمكنك متابعة قناة المهندس احمد علي التلجرام حيث يجيب عن الاسئلةالتي تواجة المبرمجين المبدئين : [كالبنيان المرصوص](shorturl.at/pCGP0)
+
 ### أسامة الزيرو
 * [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
 * [Elzero Web School | Facebook](https://www.facebook.com/groups/ElzeroWebSchool)
@@ -201,7 +206,10 @@
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
 - [A.I. Paper بالعربية](https://www.facebook.com/groups/Arabic.A.I.Paper) - مجتمع مهتم بتعريب ابحاث المؤتمرات والمجلات العلمية وتطبيقاتهم فى أرض الواقع
-
+- [Hesham Asem](https://www.youtube.com/c/HeshamAsem) - قناة المهندس هشام عاصم علي اليوتيوب لشرح منهج تعلم الاله والتعلم العميق و معالجة اللغه الطبيعية .
+- [Hussam Hourani](https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA) -  قناة الدكتور حسام لشرح الكثير من المكتبات المستخدمة في الذكاء الاصطناعي و بايثون. 
+- [Farisology](https://www.youtube.com/channel/UCe2_Z7UrjYngN110gDyttiQ) - سلسله من الفيديوهات حول مقدمة في تعلم الاله 
+  
 ## امن المعلومات
 
 - [Mohamed A. Baset (FB)](https://www.facebook.com/SymbianSyMoh) - الحساب الشخصي لخبير امن المعلومات محمد عبدالباسط, ينشر عليه كل ما يهم أمن المعلومات و آخر الاخبار و الثغرات
