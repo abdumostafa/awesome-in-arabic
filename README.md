@@ -59,7 +59,6 @@
 * [Medhat Dawoud](https://medhatdawoud.net)
 * [Medhat Dawoud (@med7atdawoud) | Twitter](https://twitter.com/med7atdawoud)
 * [Medhat Dawoud | GitHub](https://github.com/medhatdawoud)
-* [Medhat Dawoud | Instagram](https://instagram.com/medhatdawoud)
 * [Medhat Dawoud | LinkedIn](https://www.linkedin.com/in/medhatdawoud/)
 * [Semicolon Academy](https://semicolon.academy)
 * [SemiColon Academy · GitHub](https://github.com/semicolon-academy)
@@ -74,8 +73,6 @@
 * [ElzeroWebSchool (Elzero Web School)](https://github.com/ElzeroWebSchool)
 * [Osama Elzero (@Osama_Elzero) / Twitter](https://twitter.com/Osama_Elzero)
 * [Osama on CodePen](https://codepen.io/OsamaElzero/)
-* [Osama Elzero (@osama_elzero) • Instagram photos and videos](https://www.instagram.com/Osama_Elzero/)
-
 ### جيكس API - Geeks API
 - [FaceBook](https://www.facebook.com/GeeksAPI) محتوى تقني عربي يشرف عليه مجموعة من المعماريين ورواد التقنية
 
