@@ -66,11 +66,6 @@
 * [SemiColon Academy · YouTube](https://www.youtube.com/SemicolonAcademy)
 * [SemiColon Academy · Facebook](https://www.facebook.com/SemicolonAcademy)
 
-  
-### احمد فتحي: Senior Software Architect
- - [Ahmad Fathy ](https://www.linkedin.com/in/ahmedfathykhalid/)
- - كما يمكنك متابعة قناة المهندس احمد علي التلجرام حيث يجيب عن الاسئلةالتي تواجة المبرمجين المبدئين : [كالبنيان المرصوص](shorturl.at/pCGP0)
-
 ### أسامة الزيرو
 * [ Osama Elzero | LinkedIn](https://www.linkedin.com/in/osamaelzero/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHJRwoBdJDZpv34tm8qIZ6lUeU23s2kz8c)
 * [Elzero Web School | Facebook](https://www.facebook.com/groups/ElzeroWebSchool)
