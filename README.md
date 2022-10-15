@@ -29,14 +29,17 @@
 
 ## مطورين
 
-- [محمد حماد (FB)](https://www.facebook.com/mohamed.hamedhammad) من المطورين ذوي الخبرة الكبيرة ولديه قدرة متميزة على التحليل
-- [جيكس API - Geeks API (FB)](https://www.facebook.com/GeeksAPI) محتوى تقني عربي يشرف عليه مجموعة من المعماريين ورواد التقنية
+### محمد حماد
+من المطورين ذوي الخبرة الكبيرة ولديه قدرة متميزة على التحليل
+
+- [Linkedin](https://www.linkedin.com/in/mohamed-hammad-a720a622/)
+- [FaceBook](https://www.facebook.com/mohamed.hamedhammad)
 
 ### أحمد الجابري
 
 - [Ahmed Aljaberi / Twitter](https://twitter.com/ahmed_aljabri)
 
- ### عبدالمنعم حسين
+### عبدالمنعم حسين
 
 - [👨🏽‍💻 عبدالمنعم ⚡ / Twitter](https://twitter.com/abdlmneim)
   
@@ -77,6 +80,9 @@
 * [Osama Elzero (@Osama_Elzero) / Twitter](https://twitter.com/Osama_Elzero)
 * [Osama on CodePen](https://codepen.io/OsamaElzero/)
 * [Osama Elzero (@osama_elzero) • Instagram photos and videos](https://www.instagram.com/Osama_Elzero/)
+
+### جيكس API - Geeks API
+- [FaceBook](https://www.facebook.com/GeeksAPI) محتوى تقني عربي يشرف عليه مجموعة من المعماريين ورواد التقنية
 
 ## بودكاست
 
