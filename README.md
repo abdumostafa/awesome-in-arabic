@@ -197,9 +197,10 @@
 - [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
 - [Mohammed Reda](https://www.youtube.com/channel/UCTkiijLaF4TlKSosdIcxFGA) (SOLID Principles بالعربى, Design Patterns بالعربى)
 - [حسين ناصر](https://www.youtube.com/user/thecountedmond)
-- [DevCreed](https://www.youtube.com/c/DevCreed/playlists)
+- [DevCreed](https://www.youtube.com/c/DevCreed)
 - [Zero One](https://www.youtube.com/c/ZeroOneCS) هي قناة تهتم بتعليم أساسيات البرمجة للطلاب من خلال شرح أهم الكتب في المجال.
 - [AWS بالعربي](https://www.youtube.com/c/awsriyadhusergroup) قناة متخصصة في خدمات Amazon web sevices
+- [Ismail Anjrini](https://www.youtube.com/c/IsmailAnjrini)  
   ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
