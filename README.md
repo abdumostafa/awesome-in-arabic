@@ -41,8 +41,8 @@
 
 ### عبدالمنعم حسين
 
-- [👨🏽‍💻 عبدالمنعم ⚡ / Twitter](https://twitter.com/abdlmneim)
-  
+- [تويتر](https://twitter.com/abdlmneim)
+- [لينكدإن](https://www.linkedin.com/in/abdelmneim-hussein)
 ### أحمد أشرف
 
 - [ Ahmed Ash - YouTube](https://www.youtube.com/user/smiledevelop)
