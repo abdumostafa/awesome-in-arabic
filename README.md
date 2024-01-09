@@ -200,7 +200,9 @@
 - [DevCreed](https://www.youtube.com/c/DevCreed)
 - [Zero One](https://www.youtube.com/c/ZeroOneCS) هي قناة تهتم بتعليم أساسيات البرمجة للطلاب من خلال شرح أهم الكتب في المجال.
 - [AWS بالعربي](https://www.youtube.com/c/awsriyadhusergroup) قناة متخصصة في خدمات Amazon web sevices
-- [Ismail Anjrini](https://www.youtube.com/c/IsmailAnjrini)  
+- [Ismail Anjrini](https://www.youtube.com/c/IsmailAnjrini)
+- - [Ahmed Elemam](https://www.youtube.com/@ahmdelemam)
+
   ## تعلم الآلة
 
 - [Menna A. Moataz](https://www.youtube.com/channel/UCWO6ygW6SReNF_74KGVm5IA/featured) - قناة اليوتيوب للمهندسة منة معتز لشروحات تعلم الآلة وإعداد البيانات.
